@@ -15,6 +15,6 @@ Exploring: New frontiers in ReactJS and backend Python for web applications.
 Training: Developing custom models for image analysis and data projects.
 📫 Let’s Connect!
 Email: vishnu71y13@gmail.com
-LinkedIn: Vishnu Das P K
-GitHub: vishnudaspk
+LinkedIn: [Vishnu Das P K](https://www.linkedin.com/in/vishnudas-pk/)
+GitHub: [vishnudaspk](https://github.com/vishnudaspk)
 I love collaborating on new projects and learning from others. Feel free to explore my repositories and drop me a line! 🌟
