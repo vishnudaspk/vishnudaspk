@@ -7,7 +7,7 @@
 📫 Reach me at: `vishnu71y13@gmail.com`
 
 
-## 🌐 Links
+## 🌐 Connect me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnudas-pk/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/vishnudaspk)
